@@ -4,7 +4,6 @@ import styles from './App.module.css'
 import './global.css'
 import { Post } from './components/Post/Post'
 import { Sidebar } from './components/Sidebar/Sidebar'
-import { Comment } from './components/Comment/Comment'
 
 // author: {avatar_url: "", name: "". role:""}
 // publishedAt: Date

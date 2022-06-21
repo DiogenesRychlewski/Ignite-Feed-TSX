@@ -20,7 +20,6 @@ interface PostProps {
     author: Author;
     publishedAt: Date;
     content: Content[];
-
 }
 
 export function Post(props:PostProps){
